@@ -1,4 +1,4 @@
 .git/
 # .gitmodules
-Results/ .
+Results/ 
 trace_files/*.trace
