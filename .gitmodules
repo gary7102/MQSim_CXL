@@ -1,0 +1,3 @@
+[submodule "MQSim_CXL_Linux"]
+	path = MQSim_CXL_Linux
+	url = https://github.com/spypaul/MQSim_CXL_Linux
