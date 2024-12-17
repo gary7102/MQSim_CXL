@@ -3,12 +3,11 @@
 
 # Note:
 
+<font size = 4>**Add the Results directory**</font>
 ```
-# add the results directory
 mkdir Result
 ```
-
+<font size = 4>**Add the trace_files directory**</font>
 ```
-# add the trace_files directory
 mkdir trace_files
 ```
