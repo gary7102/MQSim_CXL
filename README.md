@@ -1,5 +1,10 @@
 # MQSim_CXL
 
+# Usage
+<font size = 4>**Run the code**</font>
+```
+bash main.sh
+```
 
 # Note:
 
@@ -11,3 +16,4 @@ mkdir Result
 ```
 mkdir trace_files
 ```
+
