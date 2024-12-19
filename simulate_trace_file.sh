@@ -36,7 +36,7 @@ do
 	cp "$SOURCE_PATH/workload.xml" "$DEST_PATH"
 
 	# 輸出完成訊息
-	echo "Files and folders successfully copied to $DEST_PATH"
+	echo "Files and folders successfully copied from "$SOURCE_PATH/Results" to $DEST_PATH"
 	
 
 
