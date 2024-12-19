@@ -28,7 +28,7 @@ do
 	mkdir -p "$DEST_PATH"
 
 	# 複製 Results 資料夾
-	cp -r "$SOURCE_PATH/Results" "$DEST_PATH/Results"
+	cp -r "$SOURCE_PATH/Results" "$DEST_PATH"
 
 	# 複製 config.txt, ssdconfig.xml, workload.xml
 	cp "$SOURCE_PATH/config.txt" "$DEST_PATH"
