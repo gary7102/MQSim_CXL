@@ -17,7 +17,7 @@ do
 
     # 在這裡執行與檔案相關的操作
     python3 set_tracefile.py "../trace_files/$file_name"
-
+    python3 modify_req.py "./MQSim_CXL_Linux/config.txt" "./trace_files/$file_name"
     bash simulate_trace_file.sh $file_name_no_ext	
 
 done
