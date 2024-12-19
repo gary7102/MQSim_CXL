@@ -3,3 +3,4 @@
 Results/ 
 trace_files/*.trace
 .DS_store
+Unused_tracefiles/
