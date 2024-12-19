@@ -2,3 +2,4 @@
 # .gitmodules
 Results/ 
 trace_files/*.trace
+.DS_store
