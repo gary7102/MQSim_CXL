@@ -5,3 +5,4 @@ trace_files/*.trace
 .DS_store
 Unused_tracefiles/
 TestError.txt
+*.swp
