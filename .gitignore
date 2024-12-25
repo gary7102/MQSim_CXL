@@ -6,3 +6,4 @@ trace_files/*.trace
 Unused_tracefiles/
 TestError.txt
 *.swp
+/Results_prefetcher
