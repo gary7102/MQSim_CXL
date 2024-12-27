@@ -7,3 +7,4 @@ Unused_tracefiles/
 TestError.txt
 *.swp
 /Results_prefetcher
+/tmp
