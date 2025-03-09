@@ -1,7 +1,7 @@
 
 [Overcoming the Memory Wall with CXL-Enabled SSDs](https://www.usenix.org/system/files/atc23-yang-shao-peng.pdf)
 
-Report : [Link]()
+Report : [Link](https://github.com/gary7102/MQSim_CXL/blob/main/Memory%E6%9C%9F%E6%9C%ABpaper%E5%A0%B1%E5%91%8A.pptx)
 
 # MQSim_CXL
 
