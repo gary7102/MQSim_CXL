@@ -40,7 +40,11 @@ Report : [Link](https://github.com/gary7102/MQSim_CXL/blob/main/Memory%E6%9C%9F%
 ![image](https://github.com/user-attachments/assets/95a89311-1bf3-4fcc-8ab4-50a486d39eb2)
 ![image](https://github.com/user-attachments/assets/32b3997d-ccfa-45ff-8911-29fc31c9d0ac)
 ![image](https://github.com/user-attachments/assets/de6a17de-cf01-45e2-bc6b-748fb3f0ad34)
-![image](https://github.com/user-attachments/assets/97b60e91-217b-4dd6-a20e-724225af82b5)
+![image](https://github.com/user-attachments/assets/a487e1ad-f0fb-4348-b434-b7a4acbae9ab)
+![image](https://github.com/user-attachments/assets/6da8bd34-be6c-4f51-bfc2-725e6396ee80)
+![image](https://github.com/user-attachments/assets/521d39b2-f8c3-4edd-a443-b97e852a79b1)
+![image](https://github.com/user-attachments/assets/7fe42371-4a1e-421c-a19f-c88d91da5add)
+![image](https://github.com/user-attachments/assets/46eeb55a-1da4-45ff-b0eb-0b9f5362f6f5)
 
 
 # MQSim_CXL
